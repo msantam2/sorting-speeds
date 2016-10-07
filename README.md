@@ -1,6 +1,6 @@
 # Sorting Speeds
 
-<img src="https://github.com/msantam2/sorting-speeds/blob/master/images/sort_times.png" width="400" height="400" />
+<img src="https://github.com/msantam2/sorting-speeds/blob/master/images/sort_times.png" width="600" height="200" />
 
 This is a fun comparison of various sorting algorithms!
 
