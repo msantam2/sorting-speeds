@@ -31,7 +31,7 @@ sorts.each do |sort|
   times["#{sort}"] = time
 end
 ```
-The program imports all files from the `sorts` directory and uses those filenames to call each corresponding sorting method. This way, to add a sort all you need to do is create a file in `sorts` with the name `your_sort.rb`. Make sure the name of the sorting method is the same as the file that contains it (i.e. `bubble_sort.rb` contains the method `bubble_sort(arr)`).
+The program imports all files from the `sorts` directory and uses those filenames to call each corresponding sorting method. This way, to add a sort all you need to do is create a file in `sorts` with the name `your_sort.rb`. Make sure the name of the sorting method is the same as the file that contains it (i.e. `bubble_sort.rb` contains the method `bubble_sort(arr)`). That is it, you only need to write the method definition and you are set. 
 
 ### Run this Code
 
